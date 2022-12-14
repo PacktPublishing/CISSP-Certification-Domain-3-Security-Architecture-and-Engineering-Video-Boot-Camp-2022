@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781838646080)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # CISSP®️ Certification Domain 3: Security Architecture and Engineering Video Boot Camp for 2022
 This is the code repository for [CISSP®️ Certification Domain 3: Security Architecture and Engineering Video Boot Camp for 2022 [Video]](https://www.packtpub.com/product/cissp-certification-domain-3-security-architecture-and-engineering-video-boot-camp-for-2022/9781838646080?_ga=2.265945615.1821478721.1660805166-1836380341.1660805166), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
